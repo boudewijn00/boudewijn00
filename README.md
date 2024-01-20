@@ -1,10 +1,6 @@
-| Syntax | Description |
-| ---------- | ---------- |
-| Header | Title |
-| Paragraph | Text | 
-<img src="aws.svg" width="60px" />
-<img src="copilot.svg" width="60px" />
-<img src="docker.svg" width="60px" />
+<img src="aws.svg" width="60px" style="float: left; margin-right: 10px;"  />
+<img src="copilot.svg" width="60px" style="float: left; margin-right: 10px;"  />
+<img src="docker.svg" width="60px" style="float: left; margin-right: 10px;"  />
 <img src="expressjs.svg" width="60px" />
 <img src="firefox.svg" width="60px" /> 
 <img src="git.svg" width="60px" />
