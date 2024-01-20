@@ -6,7 +6,6 @@
     <img src="firefox.svg" width="40px" /> 
     <img src="git.svg" width="40px" />
     <img src="github.svg" width="40px" />
-    <img src="homebrew.svg" width="40px" />
     <img src="javascript.svg" width="40px" />
     <img src="jwt.svg" width="40px" />
     <img src="laravel.svg" width="40px" />
@@ -18,7 +17,7 @@
     <img src="playwright.svg" width="40px" />
     <img src="postgresql.svg" width="40px" />
     <img src="postman.svg" width="40px" />
-    <img src="python.svg" width="40px" />
+    <img src="python.svg" width="60px" />
     <img src="redis.svg" width="40px" />
     <img src="sqlite.svg" width="40px" />
     <img src="supabase.svg" width="40px" />
