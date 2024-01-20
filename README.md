@@ -1,4 +1,5 @@
 | Syntax | Description |
+| ---------- | ---------- |
 | Header | Title |
 | Paragraph | Text | 
 <img src="aws.svg" width="60px" />
