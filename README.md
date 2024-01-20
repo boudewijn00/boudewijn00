@@ -1,1 +1,1 @@
-<img src="php.svg" />
+<img src="php.svg" width="1em" />
