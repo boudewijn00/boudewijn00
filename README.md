@@ -7,7 +7,6 @@
     <img src="git.svg" width="40px" />
     <img src="github.svg" width="40px" />
     <img src="javascript.svg" width="40px" />
-    <img src="jwt.svg" width="40px" />
     <img src="laravel.svg" width="40px" />
     <img src="linux.svg" width="40px" />
     <img src="mariadb.svg" width="40px" />
