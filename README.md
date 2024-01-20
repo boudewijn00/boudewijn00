@@ -18,8 +18,7 @@
     <img src="postman.svg" width="40px" />
     <img src="python.svg" width="60px" />
     <img src="redis.svg" width="40px" />
-    <img src="sqlite.svg" width="40px" />
-    <img src="supabase.svg" width="40px" />
+    <img src="sqlite.svg" width="60px" />
     <img src="swagger.svg" width="40px" />
     <img src="tailwindcss.svg" width="40px" />
 </p>
