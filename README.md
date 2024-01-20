@@ -1,3 +1,4 @@
+<span style="color: red;">This text will be red.</span>
 <img src="aws.svg" width="60px" />
 <img src="copilot.svg" width="60px" />
 <img src="docker.svg" width="60px" />
