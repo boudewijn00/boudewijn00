@@ -1,3 +1,4 @@
+<p align="center">
 <img src="aws.svg" width="60px" style="display:inline"  />
 <img src="copilot.svg" width="60px" style="display:inline"  />
 <img src="docker.svg" width="60px" style="display:inline"  />
@@ -23,3 +24,4 @@
 <img src="supabase.svg" width="60px" />
 <img src="swagger.svg" width="60px" />
 <img src="tailwindcss.svg" width="60px" />
+</p>
