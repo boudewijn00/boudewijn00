@@ -1,3 +1,7 @@
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
 <img src="aws.svg" width="60px" />
 <img src="copilot.svg" width="60px" />
 <img src="docker.svg" width="60px" />
