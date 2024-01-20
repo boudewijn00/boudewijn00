@@ -1,6 +1,6 @@
-<img src="aws.svg" width="60px" style="float: left; margin-right: 10px;"  />
-<img src="copilot.svg" width="60px" style="float: left; margin-right: 10px;"  />
-<img src="docker.svg" width="60px" style="float: left; margin-right: 10px;"  />
+<img src="aws.svg" width="60px" style="display:inline"  />
+<img src="copilot.svg" width="60px" style="display:inline"  />
+<img src="docker.svg" width="60px" style="display:inline"  />
 <img src="expressjs.svg" width="60px" />
 <img src="firefox.svg" width="60px" /> 
 <img src="git.svg" width="60px" />
